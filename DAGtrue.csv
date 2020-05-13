@@ -1,0 +1,17 @@
+ID,Variable 1,Dependent,Variable 2
+1,marriage,->,residence
+2,age,->,marriage
+3,age,->,hypertension
+4,age,->,heartdisease
+5,smoking,->,hypertension
+6,hypertension,->,stroke
+7,hypertension,->,heartdisease
+8,glucose,->,hypertension
+9,bmi,->,hypertension
+10,bmi,->,glucose
+11,gender,->,hypertension
+12,gender,->,work
+13,work,->,residence
+14,gender,->,bmi
+15,heartdisease,->,stroke
+16,bmi,->,heartdisease
